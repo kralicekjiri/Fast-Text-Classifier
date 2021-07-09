@@ -1,5 +1,5 @@
 # FTC: Fast-Text-Classifier
-Official PyTorch implementation of FTC - Text/Non-Text image classifier [paper](ToBeFilled).
+Official PyTorch implementation of FTC - Text/Non-Text image classifier [paper](https://drive.google.com/file/d/1V4OJ9k565BoNFz7PWwvSV4EIkfAhyTin/view?usp=sharing).
 
 ## Overview
 PyTorch implementation of Fast-Text-Classifier (FTC).
